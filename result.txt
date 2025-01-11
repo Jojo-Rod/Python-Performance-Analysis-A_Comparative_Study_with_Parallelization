@@ -1,0 +1,15 @@
+CPython:
+fibonacci : 0.01 seconds
+string_reverse : 0.01 seconds
+file_write : 0.02 seconds
+list_sorting : 0.58 seconds
+PyPy:
+fibonacci : 0.02 seconds
+string_reverse : 0.02 seconds
+file_write : 0.03 seconds
+list_sorting : 0.19 seconds
+Jython:
+fibonacci : 0.71 seconds
+string_reverse : 0.80 seconds
+file_write : 0.78 seconds
+list_sorting : 2.05 seconds
